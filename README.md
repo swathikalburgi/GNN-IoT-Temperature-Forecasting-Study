@@ -39,9 +39,12 @@ The study explores how **Graph Neural Networks (GNNs)** can improve temperature 
 git clone https://github.com/swathikalburgi/GNN-IoT-Temperature-Forecasting-Study.git
 cd GNN-IoT-Temperature-Forecasting-Study
 pip install -r requirements.txt
+`````
 
 ### Running the Notebook 
 Open: [GNN_IoT_Temperature_Forecasting_Study_vFinal.ipynb](https://colab.research.google.com/drive/1_4m4CXXSrhlFrIx7gtkiyOLiLlQALIxq?usp=sharing)
+
+---
 
 ## Key Results
 - GCN outperformed Random Forest with a 73.16% reduction in MSE.
