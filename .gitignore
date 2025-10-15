@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data and results
+data/
+results/
+figures/
+appendix/
+*.csv
+*.json
+*.npy
+*.pt
+*.h5
+*.pkl
+
+# Logs and temp
+logs/
+*.log
+*.tmp
